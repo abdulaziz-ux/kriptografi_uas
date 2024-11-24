@@ -1,0 +1,14 @@
+C:\Users\ajiza\OneDrive\Desktop\projectc#\obj\Debug\net9.0-windows\projectc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajiza\OneDrive\Desktop\projectc#\obj\Debug\net9.0-windows\projectc#.AssemblyInfoInputs.cache
+C:\Users\ajiza\OneDrive\Desktop\projectc#\obj\Debug\net9.0-windows\projectc#.AssemblyInfo.cs
+C:\Users\ajiza\OneDrive\Desktop\projectc#\obj\Debug\net9.0-windows\projectc#.csproj.CoreCompileInputs.cache
+C:\Users\ajiza\OneDrive\Desktop\projectc#\bin\Debug\net9.0-windows\projectc#.exe
+C:\Users\ajiza\OneDrive\Desktop\projectc#\bin\Debug\net9.0-windows\projectc#.deps.json
+C:\Users\ajiza\OneDrive\Desktop\projectc#\bin\Debug\net9.0-windows\projectc#.runtimeconfig.json
+C:\Users\ajiza\OneDrive\Desktop\projectc#\bin\Debug\net9.0-windows\projectc#.dll
+C:\Users\ajiza\OneDrive\Desktop\projectc#\bin\Debug\net9.0-windows\projectc#.pdb
+C:\Users\ajiza\OneDrive\Desktop\projectc#\obj\Debug\net9.0-windows\projectc#.dll
+C:\Users\ajiza\OneDrive\Desktop\projectc#\obj\Debug\net9.0-windows\refint\projectc#.dll
+C:\Users\ajiza\OneDrive\Desktop\projectc#\obj\Debug\net9.0-windows\projectc#.pdb
+C:\Users\ajiza\OneDrive\Desktop\projectc#\obj\Debug\net9.0-windows\projectc#.genruntimeconfig.cache
+C:\Users\ajiza\OneDrive\Desktop\projectc#\obj\Debug\net9.0-windows\ref\projectc#.dll
